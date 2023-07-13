@@ -1,0 +1,6 @@
+**/node_modules
+**/.env
+DeleteAndSaveMessages/**/*.json
+# DeleteAndSaveMessages/data/messages/**.json
+# DeleteAndSaveMessages/**.json
+DeleteAndSaveMessages/errors.txt
